@@ -56,7 +56,10 @@ These metrics help assess the accuracy and reliability of the model.
 
 ---
 
-## 📂 Project Structure
+📁 House-Price-Prediction-MLR
+ ┣ 📁 data
+ ┃ ┗ 📄 house_data.csv
  ┣ 📄 house_dataset MLR project assignment.ipynb
  ┣ 📄 README.md
+
 
