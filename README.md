@@ -57,3 +57,6 @@ These metrics help assess the accuracy and reliability of the model.
 ---
 
 ## 📂 Project Structure
+ ┣ 📄 house_dataset MLR project assignment.ipynb
+ ┣ 📄 README.md
+
